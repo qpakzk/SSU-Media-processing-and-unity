@@ -26,13 +26,10 @@ title:                 Processing & Unity
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  This blog is for a class 'Introduction to Information and Art' in Global School of Media, College of IT, Soongil University.
-  In this class, I'm learning processing and unity.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Posting about processing and unity
+  Sangwon Hong's Blog for a class Introduction to Information and Art, Global School of Media, Soongsil University, Seoul, Korea
 
 # A list of keywords for your blog
 keywords:              [processing, unity]
