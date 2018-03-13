@@ -1,3 +1,3 @@
 # Processing & Unity
 
-This blog is for a class 'Introduction to Information and Art' in Global School of Media, College of IT, Soongil University.
+This blog is for a class, __Introduction to Information and Art__ in Global School of Media, College of IT, Soongil University, Seoul, Korea.
