@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [Processing] 프로세싱 개요
+title: Introduction to Processing
 description: >
-  프로세싱의 정의와 특성에 대해 알아본다.
+  프로세싱의 정의와 특징에 대해 알아본다.
 tags: [processing]
 ---
 
-# 프로세싱 개요
+# Introduction to Processing
 
 프로세싱은 아티스트, 디자이너 등 프로그래머가 아닌 사람들도 빠르게 프로토타입을 개발할 수 있도록 지원해주는 프로그래밍 언어이자 통합 개발 환경(IDE, Integrated Development Environment)이다.
 
