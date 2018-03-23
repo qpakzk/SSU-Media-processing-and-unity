@@ -2,7 +2,7 @@
 layout: post
 title: Moving a Ball
 description: >
-  조건문을 활용하여 공을 제어해 보도록 한다.
+  동적모드로 프로그래밍한 예제를 살펴보도록 하겠다.
 tags: [processing]
 ---
 
@@ -14,7 +14,7 @@ tags: [processing]
 int xPos, yPos, xDir;
 
 void setup() {
-  size(300, 200);
+  size(600, 200);
   xPos = 0;
   yPos = 10;
   xDir = 1;
@@ -38,3 +38,7 @@ void draw() {
   }
 }
 ```
+
+결과는 다음과 같다.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nk0kIj912cQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
