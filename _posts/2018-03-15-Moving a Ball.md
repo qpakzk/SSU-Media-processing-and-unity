@@ -39,6 +39,6 @@ void draw() {
 }
 ```
 
-결과는 다음과 같다.
+결과는 다음과 같다. <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nk0kIj912cQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
