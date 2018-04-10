@@ -39,4 +39,4 @@ void draw() {
 
 결과는 다음과 같다. <br>
 
-![](/assets/img/processing/free_style_art.gif)
+![]({{ site.baseurl }}/assets/img/processing/free_style_art.gif)
