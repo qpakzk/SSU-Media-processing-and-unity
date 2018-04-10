@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Start Processing Programming
+title: 프로세싱 프로그래밍 시작
 description: >
   프로세싱 프로그래밍을 시작한다.
 tags: [processing]
 ---
 
-# Start Processing Programming
+# 프로세싱 프로그래밍 시작
 
 프로세싱 프로그래밍을 시작하도록 하겠다. Processing IDE에서 프로그래밍하여 원을 그려보도록 하겠다.
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Moving a Ball
+title: 동적모드
 description: >
   동적모드로 프로그래밍한 예제를 살펴보도록 하겠다.
 tags: [processing]
 ---
 
-# Moving Circle
+# 동적모드
 
 흰 공이 오른쪽 벽에 부딪혔을 때 파란색 공으로 바뀌고 왼쪽 벽에 부딪혔을 때 빨간색 공으로 바뀌는 프로그램이다.
 
