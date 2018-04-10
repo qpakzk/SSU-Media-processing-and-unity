@@ -29,7 +29,7 @@ ellipse(50, 50, 50, 50);
 
 결과는 다음과 같다.
 
-![](/assets/img/processing/ellipse.png)
+![]({{ site.baseurl }}/assets/img/processing/ellipse.png)
 
 전체 사이즈는 설정하지 않으면 디폴트로 100px * 100px을 설정해준다. 전체 사이즈는 프로세싱 정의 함수 size()로 설정한다.
 
@@ -38,7 +38,7 @@ size(200, 200);
 ellipse(50, 50, 50, 50);
 ```
 
-![](/assets/img/processing/ellipse2.png)
+![]({{ site.baseurl }}/assets/img/processing/ellipse2.png)
 
 ## 프로세싱 프로그래밍 두 가지 방식
 
