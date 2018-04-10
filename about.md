@@ -5,6 +5,6 @@ menu: true
 order: 1
 ---
 
-Hello, I'm Sangwon Hong. I'm a Junior Software Engineer. I'm a senior undergrad in School of Computer Science and Engineering, College of IT, Soongil University, Seoul, Korea. I'm planning to go to graduate school. I'm interested in Blockchain and Systems (Linux Kernel).
+안녕하세요. Processing & Unity 관리자 홍상원입니다. 저는 숭실대학교 컴퓨터학부 4학년 학부생입니다.
 
-This blog is for a class, __Introduction to Information and Art__ , Global School of Media, Soongsil University, Seoul, Korea. I'll post about processing and unity.
+이 블로그는 2018-1학기 숭실대학교 글로벌미디어학부 전공기초 __정보와 예술 개론__ 수업 내용을 정리하기 위해 개설하였습니다. 프로세싱과 유니티와 관련된 포스팅이 진행될 예정입니다.
