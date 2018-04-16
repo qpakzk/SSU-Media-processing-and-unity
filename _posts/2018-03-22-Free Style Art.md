@@ -2,7 +2,7 @@
 layout: post
 title: Free Style Art
 description: >
-  예술 작품을 그려보도록 하겠다.
+  random() 함수를 이용한 예술 작품을 그려보도록 하겠다.
 tags: [processing]
 ---
 
