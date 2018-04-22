@@ -10,7 +10,7 @@ tags: [processing]
 
 흰 공이 오른쪽 벽에 부딪혔을 때 파란색 공으로 바뀌고 왼쪽 벽에 부딪혔을 때 빨간색 공으로 바뀌는 프로그램이다.
 
-```cpp
+```java
 int xPos, yPos, xDir;
 
 void setup() {
@@ -39,6 +39,6 @@ void draw() {
 }
 ```
 
-결과는 다음과 같다. <br>
+결과는 다음과 같다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nk0kIj912cQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

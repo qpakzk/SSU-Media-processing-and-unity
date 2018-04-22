@@ -10,7 +10,7 @@ tags: [processing]
 
 processing에서 제공해주는 random() 함수를 활용하여 예술 작품을 그려보도록 하겠다.
 
-```cpp
+```java
 int count = 0;
 
 void setup() {
@@ -37,6 +37,6 @@ void draw() {
 }
 ```
 
-결과는 다음과 같다. <br>
+결과는 다음과 같다.
 
 ![]({{ site.baseurl }}/assets/img/processing/free_style_art.gif)
